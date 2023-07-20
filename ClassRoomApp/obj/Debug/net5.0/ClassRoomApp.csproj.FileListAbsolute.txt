@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.AssemblyInfo.cs
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.exe
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.deps.json
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.runtimeconfig.json
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.dll
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\bin\Debug\net5.0\ClassRoomApp.pdb
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.dll
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\refint\ClassRoomApp.dll
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.pdb
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ClassRoomApp.genruntimeconfig.cache
+C:\Users\user\Desktop\ClassRoomApp\ClassRoomApp\obj\Debug\net5.0\ref\ClassRoomApp.dll
